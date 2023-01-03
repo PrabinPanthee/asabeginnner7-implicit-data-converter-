@@ -3,7 +3,7 @@ class Program
 {
     static void Main()
     {
-        //implicit converter as it dont lose any data 
+        //implicit converter as it doesnot lose any data 
         //as float is bigger data type 
         int i = 1010;
         float f = i;
